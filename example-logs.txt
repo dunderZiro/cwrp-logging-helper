@@ -1,0 +1,128 @@
+-= ET+ =-
+
+__**Event Report**__
+---------------------
+**Event map:** 
+**Clone Leader:** 
+**Participants:** 
+**MVP:** 
+**Notes:** 
+**Date:** 
+
+__**Mini Event Report**__
+---------------------
+**Mini event map:** 
+**Clone Leader:** 
+**Participants:** 
+**MVP:** 
+**Notes:** 
+**Date:** 
+
+__**Passive RP/Mission Report**__
+---------------------
+**Hosted by:** 
+**What did you do:** 
+**Participants:** 
+**Performance:** 
+**Date:** 
+
+-= CO+: =-
+
+__**Basic Training**__
+---------------------
+**Name:** 
+**What Basic Training:** 
+**Who Participated:** 
+**Performance:** 
+**Date:** 
+
+__**Training**__
+---------------------
+**Name:** 
+**What Training:** 
+**Who Participated:** 
+**Performance:** 
+**Date:**
+
+-= SO+: =-
+
+__**Tryout**__
+---------------------
+**Name:** 
+**Who Participated:** 
+**Who passed(Rank+SteamID):** 
+**Performance:** 
+**Date:** 
+
+__**Advertisement**__
+----------------------
+**Name:** 
+**Number of CT's in Debrief (ET):** 
+**Number of Tryout Candidates:** 
+**Date:** 
+
+-= Hierarchy Only =-
+
+__**Promotion**__
+---------------------
+**Logger Name:** 
+**Name:** 
+**From Rank:** 
+**To rank:** 
+**Reason:** 
+**Date:**
+
+__**Kick**__
+---------------------
+**Logger Name:** 
+**Name:** 
+**Rank:** 
+**Reason:** 
+**Date:** 
+
+__**Demotion**__
+---------------------
+**Logger Name:** 
+**Name:** 
+**From Rank:** 
+**To rank:** 
+**Reason:** 
+**Date:** 
+
+__**NCO / CO / SO (Mando / Tryout / Advertisement / Event / Training) Training**__
+---------------------
+**Logger Name:** 
+**Who Participated:** 
+**Performance (Pass / Fail):** 
+**Date:** 
+
+__**Medal**__
+---------------------
+**Logger Name:** 
+**Name:** 
+**Medal Gained:** 
+**Date:** 
+
+__**Punishment**__
+--------------------
+**Logger Name:** 
+**Name:** 
+**Punishment:** 
+**Reason:** 
+**Date:** 
+
+__**Regimental Strike**__
+--------------------------
+**Logger Name:** 
+**Name:** 
+**Duration:** 
+**Reason:** 
+**Date:** 
+
+__**Regimental Blacklist**__
+--------------------------
+**Logger Name:** 
+**Name:** 
+**SteamID:** 
+**Reason:** 
+**Date:** 
